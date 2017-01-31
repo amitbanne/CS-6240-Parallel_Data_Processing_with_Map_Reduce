@@ -1,1 +1,1 @@
-# Parallel_Data_Processing_with_Map_Reduce-CS-6240-
+This repository contains assignments, and projects completed as a part of the course CS 6240 Parallel Data Processing with Map Reduce.
