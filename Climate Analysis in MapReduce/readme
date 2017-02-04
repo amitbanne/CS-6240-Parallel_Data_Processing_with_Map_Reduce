@@ -1,0 +1,14 @@
+********************************************************************
+  			 MAKE FILE
+********************************************************************
+
+For each of NoCombiner, Combiner, In Map Combine, Secondary Sort,
+makefile expects input file(s) to be placed in the "input" folder
+that is present in the same directory as makefile.
+
+makefile has two tasks:
+	a) run: to build the jar
+	b) local: to execute the jar with required input & output paths
+
+"make" would build the jar
+"make local" would execute the jar 
